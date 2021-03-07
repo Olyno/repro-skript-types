@@ -21,7 +21,7 @@ public class ExprMyMultiplePropertyExpression extends MultiplePropertyExpression
 
     static {
         register(ExprMyMultiplePropertyExpression.class, String.class, 
-            "type contents", "mytype"
+            "type contents", "amobi"
         );
     }
 

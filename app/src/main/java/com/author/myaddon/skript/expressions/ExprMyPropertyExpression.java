@@ -21,7 +21,7 @@ public class ExprMyPropertyExpression extends SimplePropertyExpression<MyType, S
 
     static {
         register(ExprMyPropertyExpression.class, String.class, 
-            "type name", "mytype"
+            "type name", "amobi"
         );
     }
 
