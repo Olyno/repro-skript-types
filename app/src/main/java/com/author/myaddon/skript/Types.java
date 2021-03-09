@@ -12,9 +12,9 @@ public class Types {
 
 	static {
 
-		Classes.registerClass(new ClassInfo<>(MyType.class, "amobi")
+		Classes.registerClass(new ClassInfo<>(MyType.class, "alibi")
 			.defaultExpression(new EventValueExpression<>(MyType.class))
-			.user("amobi")
+			.user("alibis?")
 			.name("My Type!")
 			.description("This is my type.")
 			.since("0.1.0")
